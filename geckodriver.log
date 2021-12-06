@@ -1,0 +1,33 @@
+
+1638005564465	geckodriver	INFO	Listening on 127.0.0.1:48699
+1638005565472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileTeYuND"
+1638005571437	Marionette	INFO	Listening on port 42821
+1638005571492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638005586781	Marionette	INFO	Stopped listening on port 42821
+1638005898326	geckodriver	INFO	Listening on 127.0.0.1:40363
+1638005899338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVsTS0W"
+1638005905523	Marionette	INFO	Listening on port 33125
+1638005905568	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+1638006099321	geckodriver	INFO	Listening on 127.0.0.1:36957
+1638006100331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8KH4tY"
+1638006105857	Marionette	INFO	Listening on port 37927
+1638006105950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638006128036	Marionette	INFO	Stopped listening on port 33125
+1638006417881	geckodriver	INFO	Listening on 127.0.0.1:43673
+1638006418892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesr2ESK"
+1638006424729	Marionette	INFO	Listening on port 46309
+1638006424854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638006439491	Marionette	INFO	Stopped listening on port 37927
+1638006454475	Marionette	INFO	Stopped listening on port 46309
+1638007212024	geckodriver	INFO	Listening on 127.0.0.1:52925
+1638007213033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSvyCgU"
+1638007385341	geckodriver	INFO	Listening on 127.0.0.1:38541
+1638007385351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileu4L0N5"
+1638007391769	Marionette	INFO	Listening on port 33993
+1638007391882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638007411509	Marionette	INFO	Stopped listening on port 33993

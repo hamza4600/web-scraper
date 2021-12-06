@@ -1,0 +1,817 @@
+"Name
+","Developer
+","Initial release
+","Latest release
+","Programming language
+","Cost (US$)
+","License
+","GUI
+","TUI or CLI
+","Size
+"
+"Version
+","Date
+"
+"Acme
+","Rob Pike
+","1993
+","Plan 9 and Inferno
+","
+","C
+","No cost
+","MITGPL-2.0-onlyLPL-1.02
+","
+","
+","
+"
+"AkelPad
+","Alexey Kuznetsov, Alexander Shengalts
+","2003
+","4.9.8[1] 
+","2016-07-18
+","C
+","No cost
+","BSD-2-Clause
+","
+","
+","
+"
+"Alphatk
+","Vince Darley
+","1999
+","8.3.3
+","2004‑12‑10
+","
+","$40
+","Proprietary, with BSD components
+","
+","
+","
+"
+"Aquamacs
+","David Reitter
+","2005
+","3.5[2] 
+","2019-08-18
+","C, Emacs Lisp
+","No cost
+","GPL-3.0-or-later
+","
+","
+","
+"
+"Atom
+","GitHub
+","2014
+","1.58.0[3] 
+","2021-07-27
+","HTML, CSS, JavaScript, C++
+","No cost
+","MIT
+","
+","
+","107‑185 MB
+"
+"BBEdit
+","Rich Siegel
+","1992
+","14.0[4] 
+","2021-07-19
+","Objective-C, Objective-C++
+","No cost for most features, $49.99 for full version
+","Proprietary
+","
+","
+","57.7 MB
+"
+"Bluefish
+","Bluefish Development Team
+","1999
+","2.2.12[5] 
+","2020-11-05
+","C
+","No cost
+","GPL-3.0-or-later
+","
+","
+","
+"
+"Brackets
+","Adobe Systems
+","2012
+","1.14.2[6] 
+","2020-04-06
+","HTML, CSS, JavaScript, C++
+","No cost
+","MIT
+","
+","
+","64‑105 MB
+"
+"Coda
+","Panic
+","2007
+","2.7.7[7] 
+","2020-11-05
+","Objective-C
+","$99
+","Proprietary
+","
+","
+","
+"
+"ConTEXT
+","ConTEXT Project Ltd
+","1999
+","0.98.6
+","2009‑08‑14
+","Object Pascal (Delphi)
+","No cost
+","BSD-3-Clause
+","
+","
+","
+"
+"Crimson Editor
+","Ingyu Kang
+","1999
+","3.72
+","2008‑05‑14
+","C++
+","No cost
+","Proprietary
+","
+","
+","
+"
+"CudaText
+","UVViewSoft (alexey_t, kvichans, matthias030)
+","2015
+","1.57.0
+","2018‑06‑25
+","Object Pascal (Lazarus)
+","No cost
+","MPL-2.0
+","
+","
+","5‑12 MB
+"
+"ed
+","Ken Thompson
+","1970
+","unchanged from original
+","
+","C
+","No cost
+","?
+","
+","
+","0.04 MB
+"
+"Editra
+","Cody Precord
+","2007
+","0.7.20
+","2013‑01‑05
+","Python
+","No cost
+","wxWindows license
+","
+","
+","
+"
+"EmEditor
+","Emurasoft, Inc.
+","1997
+","20.3.3
+","2020‑12‑02
+","C++
+","179.99
+","Shareware
+","
+","
+","
+"
+"epsilon
+","Lugaru Software
+","1984
+","14.00
+","2020‑10‑20[8]
+","C
+","$250
+","Proprietary
+","
+","
+","
+"
+"FeatherPad
+","Pedram Pourang
+","2016
+","0.18.0[9] 
+","2021-03-08
+","C++, Qt
+","No cost
+","GPL-3.0-or-later
+","
+","
+","
+"
+"gedit
+","GNU Project
+","2000
+","40.1[10] 
+","2021-04-17
+","C
+","No cost
+","GPL-2.0-or-later
+","
+","
+","
+"
+"Geany
+","Enrico Tröger
+","2005
+","1.38.0[11] 
+","2021-10-09
+","C, GTK2
+","No cost
+","GPL-2.0-or-later
+","
+","
+","
+"
+"GNU Emacs
+","Richard Stallman
+","1984
+","27.2[12] 
+","2021-03-25
+","C, Emacs Lisp
+","No cost
+","GPL-3.0-or-later
+","
+","
+","11.6 MB
+"
+"GNU nano
+","Chris Allegretta
+","1999
+","5.9[13] 
+","2021-10-06
+","C
+","No cost
+","GPL-3.0-or-later
+","
+","
+","0.6 MB
+"
+"IA Writer
+","Information Architects
+","2010.09.22
+","5.6
+","2020‑12‑07
+","Objective-C (iOS), Objective-C (macOS), C# (Windows), Java (Android)
+","$29.99
+","Proprietary
+","
+","
+","12‑40 MB
+"
+"JED
+","John E. Davis
+","1992
+","0.99-19 
+","2009-12-13
+","C, S-Lang
+","No cost
+","GPL-2.0-or-later
+","
+","
+","3.5 MB[a]
+"
+"jEdit
+","Slava Pestov
+","1998
+","5.6.0[14] 
+","2020-09-03
+","Java
+","No cost
+","GPL-2.0-or-later
+","
+","
+","
+"
+"JOE
+","Joseph Allen
+","1988
+","4.6[15] 
+","2018-01-09
+","C
+","No cost
+","GPL
+","
+","
+","1.3 MB
+"
+"JOVE
+","Johnathon Payne
+","1983
+","4.16.0.73 
+","2010-07-11
+","C
+","No cost
+","JOVE license
+","
+","
+","
+"
+"Kate
+","KDE Project
+","2000‑12
+","21.08.3[16] 
+","2021-10-31
+","C++
+","No cost
+","GPL
+","
+","
+","
+"
+"KEDIT
+","Mansfield Software Group, Inc.
+","1983
+","1.6.1
+","2016‑12‑05
+","C
+","$129
+","Proprietary
+","
+","
+","1.1MB
+"
+"Komodo Edit
+","Activestate
+","2007 (open-sourced)
+","12.0.1[17] 
+","2020-02-10
+","Python, JavaScript, Perl, Tcl, PHP, Ruby
+","No cost
+","MPL, GPL, LGPL
+","
+","
+","
+"
+"Komodo IDE
+","Activestate
+","2001
+","12.0.1 
+","2020-02-10
+","Python, JavaScript, Perl, Tcl, PHP, Ruby
+","$295
+","Proprietary
+","
+","
+","
+"
+"KWrite
+","KDE Project
+","2000
+","21.08.3[18] 
+","2021-11-04
+","C++
+","No cost
+","GPL
+","
+","
+","
+"
+"LE
+","Alexander V. Lukyanov
+","1997
+","1.16.3
+","2016‑06‑06
+","C++
+","No cost
+","GPL-3.0-or-later
+","
+","
+","
+"
+"Leo
+","Edward K. Ream
+","1996
+","6.3[19] 
+","2020-11-06
+","Python
+","No cost
+","MIT
+","
+","
+","
+"
+"Light Table
+","Chris Granger
+","2012
+","0.8.1[20] 
+","2016-01-22
+","ClojureScript
+","No cost
+","MIT
+","
+","
+","
+"
+"Metapad
+","Alexander Davidson
+","1999
+","3.6 
+","2011-05-28
+","C
+","No cost
+","GPL-3.0-or-later
+","
+","
+","
+"
+"mg
+","Dave Conroy
+","1986
+","current
+","2020‑07‑22[b]
+","C
+","No cost
+","Public domain
+","
+","
+","
+"
+"MinEd
+","Thomas Wolff
+","1992
+","2015.25
+","2015‑03‑30
+","C
+","No cost
+","GPL
+","
+","
+","
+"
+"MS-DOS Editor
+","Microsoft
+","1991
+","2.0.026
+","
+","
+","Bundled with MS-DOS, Microsoft Windows
+","Proprietary
+","
+","
+","
+"
+"ne
+","Sebastiano Vigna, Todd Lewis, Daniele Filaretti
+","1993
+","3.3.1[22] 
+","2021-05-17
+","C
+","No cost
+","GPL-3.0-or-later
+","
+","
+","2.7 MB
+"
+"NEdit
+","Mark Edel
+","1991
+","5.7
+","2017‑02‑08
+","C
+","No cost
+","GPL-2.0-or-later
+","
+","
+","
+"
+"Notepad
+","Microsoft
+","1985
+","6.0
+","
+","MASM (originally)
+","Bundled with Microsoft Windows
+","Proprietary
+","
+","
+","
+"
+"Notepad++
+","Don Ho
+","2003‑11‑25
+","8.1.9.2[23] 
+","2021-11-21
+","C++
+","No cost
+","GPL-3.0-or-later
+","
+","
+","11.9 MB
+"
+"nvi
+","Keith Bostic
+","1994
+","1.79
+","
+","C
+","No cost
+","BSD-3-Clause
+","
+","
+","
+"
+"Pico
+","University of Washington
+","1992
+","4.64
+","
+","C
+","No cost
+","Apache-2.0
+","
+","
+","
+"
+"PolyEdit
+","PolySoft Solutions
+","1998
+","5.4
+","2010‑04‑07
+","
+","$27.95
+","Shareware
+","
+","
+","
+"
+"PSPad
+","Jan Fiala
+","2002
+","5.0.6 
+","2021-04-08
+","Object Pascal (Delphi)
+","No cost
+","Proprietary
+","
+","
+","
+"
+"RJ TextEd
+","Rickard Johansson
+","2004
+","13.10
+","2018‑05‑07
+","Object Pascal (Delphi)
+","No cost
+","Proprietary
+","
+","
+","
+"
+"Sam
+","Rob Pike
+","1980s (early)
+","stable
+","
+","C
+","No cost
+","LPL (OSI approved)
+","
+","
+","
+"
+"SciTE
+","Neil Hodgson
+","1999
+","5.0.1[24] 
+","2021-04-09
+","C++
+","$41.99 for macOS. No cost for others
+","HPND
+","
+","
+","
+"
+"SlickEdit
+","SlickEdit, Inc.
+","1988
+","25.0.0
+","2020‑10‑20
+","C, Slick-C
+","$299
+","Proprietary
+","
+","
+","
+"
+"Smultron
+","Peter Borg
+","2004
+","12.0.6 
+","2020-01-03
+","Objective-C
+","$7.99
+","Proprietary
+","
+","
+","
+"
+"Source Insight
+","Source Dynamics
+","?
+","4.0.0084
+","2017‑02‑26
+","Source Insight macro language
+","$239-$255
+","Proprietary
+","
+","
+","
+"
+"SubEthaEdit
+","TheCodingMonkeys
+","2003
+","5.2.1[25] 
+","2021-07-19
+","
+","No cost
+","MIT
+","
+","
+","
+"
+"Sublime Text
+","Jon Skinner
+","2008
+","4 (Build 4121)[26] 
+","2021-10-26
+","C++, Python
+","$80
+","Shareware
+","
+","
+","
+"
+"TED Notepad
+","Juraj Simlovic
+","2001
+","6.1.1
+","2016‑12‑04
+","C
+","No cost
+","Proprietary
+","
+","
+","
+"
+"Textadept
+","Mitchell
+","2007
+","11.2[27] 
+","2021-08-02
+","C, Lua
+","No cost
+","MIT
+","
+","
+","
+"
+"TextEdit
+","Apple Inc.
+","2001
+","1.16 
+","2020-11-12
+","
+","No cost (also bundled with macOS)
+","BSD-3-Clause
+","
+","
+","
+"
+"TextMate
+","MacroMates
+","2004‑10‑10
+","2.0.23[28] 
+","2021-10-12
+","Objective-C++
+","No cost
+","GPL-3.0-or-later
+","
+","
+","
+"
+"TextPad
+","Helios Software Solutions
+","1992
+","8.4.2
+","2020‑07‑07
+","
+","$30.00 (£16.50)
+","Shareware
+","
+","
+","
+"
+"TextWrangler
+","Bare Bones Software
+","2003
+","5.5.2
+","2016‑09‑20 (discontinued)
+","
+","No cost
+","Proprietary
+","
+","
+","
+"
+"The SemWare Editor
+","Sammy Mitchell
+","1985‑11
+","4.4
+","2005‑06‑24
+","C, SAL
+","$99
+","Proprietary
+","
+","
+","
+"
+"UltraEdit
+","IDM Computer Solutions
+","1994
+","25.0
+","2018‑03‑12
+","C++
+","$99.95
+","Proprietary
+","
+","
+","
+"
+"VEDIT
+","Ted Green, Greenview Data
+","1980
+","6.24.2
+","2015‑01‑12
+","Assembly, C
+","$89 standard,239 Pro64
+","Proprietary
+","
+","
+","0.6 MB
+"
+"vi
+","Bill Joy
+","1976
+","3.7
+","
+","C
+","No cost
+","BSD-4-Clause or CDDL
+","
+","
+","
+"
+"Vim
+","Bram Moolenaar
+","1991
+","8.2[29] 
+","2019-12-12
+","C, Vim script
+","No cost
+","Vim
+","
+","
+","2.2 MB
+"
+"Visual Studio Code
+","Microsoft
+","2015
+","1.61.0[30] 
+","2021-10-07
+","JavaScript, TypeScript
+","No cost
+","Source code: MIT[31]  Binaries built by Microsoft: Proprietary[32][33]
+","
+","
+","53‑82 MB
+"
+"XEmacs
+","Lucid Inc.
+","1991
+","21.4.22[34] 
+","2009-01-30
+","C, Emacs Lisp
+","No cost
+","GPL-2.0-or-later
+","
+","
+"

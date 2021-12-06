@@ -1,0 +1,1 @@
+we will discuss different methods with witch we can crawel all site and their types using Basic functions
